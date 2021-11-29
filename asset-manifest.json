@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/prueba2/static/css/main.b0338630.chunk.css",
+    "main.js": "/prueba2/static/js/main.af998250.chunk.js",
+    "main.js.map": "/prueba2/static/js/main.af998250.chunk.js.map",
+    "runtime-main.js": "/prueba2/static/js/runtime-main.e7df28e7.js",
+    "runtime-main.js.map": "/prueba2/static/js/runtime-main.e7df28e7.js.map",
+    "static/js/2.d80ef5b9.chunk.js": "/prueba2/static/js/2.d80ef5b9.chunk.js",
+    "static/js/2.d80ef5b9.chunk.js.map": "/prueba2/static/js/2.d80ef5b9.chunk.js.map",
+    "index.html": "/prueba2/index.html",
+    "static/css/main.b0338630.chunk.css.map": "/prueba2/static/css/main.b0338630.chunk.css.map",
+    "static/js/2.d80ef5b9.chunk.js.LICENSE.txt": "/prueba2/static/js/2.d80ef5b9.chunk.js.LICENSE.txt",
+    "static/media/errores.36ce7ca5.png": "/prueba2/static/media/errores.36ce7ca5.png",
+    "static/media/harbor.bee33a64.jpg": "/prueba2/static/media/harbor.bee33a64.jpg",
+    "static/media/logo.77209732.png": "/prueba2/static/media/logo.77209732.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7df28e7.js",
+    "static/js/2.d80ef5b9.chunk.js",
+    "static/css/main.b0338630.chunk.css",
+    "static/js/main.af998250.chunk.js"
+  ]
+}
